@@ -2,6 +2,20 @@
 ////// EXPERIMENTAL JS
 ///////////////////////////////////////
 
+/////// COOKIES BANNER
+// const message = document.createElement('div');
+// message.classList.add('cookie-message');
+// message.style.backgroundColor = '#37383d';
+// message.innerHTML = `We use cookies for improved functionality and analytics.
+//   <button class="btn btn--close-cookie">Got it!</button>`;
+// header.before(message);
+// message.style.height = `${
+//   Number.parseInt(getComputedStyle(message).height) + 20
+// }px`;
+// document
+//   .querySelector('.btn--close-cookie')
+//   .addEventListener('click', () => message.remove());
+
 // // CHANGING STYLES FOR THE :root SELECTOR - GLOBAL CSS VARIABLES
 // document.documentElement.style.setProperty('--color-primary', 'orangered');
 
